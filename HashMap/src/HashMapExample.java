@@ -4,12 +4,12 @@ public class HashMapExample {
 
 	public static void main(String[] args) {
 		
-		int a = 10;
+		int a = 11;
 		int b = 3;
 		int c = 88;
 		
 		HashMap<String, Integer> happy = new HashMap<String, Integer> ();
-		happy.put("a", 10);
+		happy.put("a", 11);
 		happy.put("b", 3);
 		happy.put("c", 88);
 		
